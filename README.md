@@ -1,6 +1,6 @@
 # Mitt-AI-projekt
 ## Sammanfattning
-Detta är ett AI-projekt som utifrån en mening ska kunna gissa om personen är glad eller nedstämd. 
+Detta är ett AI-projekt som utifrån en mening ska kunna gissa om personen är glad eller nedstämd. Building AI course project
 ## Bakgrund 
 Det löser problemen att kunna identifiera om människor är glada eller ledsna. Men också: 
 - AI att tolka text. 
