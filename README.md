@@ -1,5 +1,5 @@
 # Mitt-AI-projekt
-## Summary
+##Summary
 Detta är ett AI-projekt som utifrån en mening ska kunna gissa om personen är glad eller nedstämd. Building AI course project
 Denna AI modell kommer att kunna iddentifiera människors inställning till saker och ting genom att identifiera laddade nyckelord i en mening, som laddad med positivitet eller negativitet. 
 ## Bakgrund 
