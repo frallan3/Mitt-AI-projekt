@@ -4,3 +4,7 @@ Detta är ett AI-projekt som utifrån en mening ska kunna gissa om personen är 
 ## Bakgrund 
 Det löser problemen att kunna identifiera om människor är glada eller ledsna. Men också: 
 - AI att tolka text. 
+## Hur det används 
+Def gissa humor (mening): 
+glada_ord = ("glad", "kul", "älskar", "fantastiskt") 
+ledsna_ord = ("ledsen", "tråkigt", "hatar") 
